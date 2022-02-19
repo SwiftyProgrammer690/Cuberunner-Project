@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to CUBERUNNER
 
-You can use the [editor on GitHub](https://github.com/SwiftyProgrammer690/Cuberunner-Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Use your a & d keys to control your cube! Watch out as the game gets more difficult and more fast-pased! The fog should be able to kill you atleast once, But if it doesn't, I should give you a medal!
 
 ### Markdown
 
